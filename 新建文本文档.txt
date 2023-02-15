@@ -1,0 +1,4 @@
+1.服务器安装node环境
+2.安装yarn 
+3.yarn add serve
+4.yarn serve -s build -l 端口号
